@@ -1,4 +1,3 @@
-```markdown
 # Docker Swarm with Traefik and Portainer
 
 This guide will help you set up a Docker Swarm environment with Traefik as a reverse proxy and Portainer for easy management of your Docker environment.
