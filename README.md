@@ -100,8 +100,6 @@ certificatesResolvers:
 providers:
   docker:
     exposedByDefault: false
-    swarmMode: true
-    network: public
   file:
     directory: /etc/traefik
     watch: true
